@@ -28,7 +28,7 @@ const Tm = () => {
   return (
     <button
       onClick={tg}
-      className="fixed max-sm:hidden top-4 right-5 z-50 p-2 rounded-full transition-colors duration-300 focus:outline-hidden"
+      className="fixed max-sm:right-0 top-4 right-5 z-50 p-2 rounded-full transition-colors duration-300 focus:outline-hidden"
     >
       {" "}
       {isD ? (
